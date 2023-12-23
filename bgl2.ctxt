@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=bgl2
+comment1.params=
+comment1.target=bgl2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ bgl2.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ started()
+comment3.params=
+comment3.target=void\ sound()
+comment4.params=
+comment4.target=void\ stopSound()
+numComments=5
