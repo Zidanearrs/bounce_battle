@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BallMedium
+comment1.params=scoreboard
+comment1.target=BallMedium(Scoreboard)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ wallCollision()
+comment4.params=
+comment4.target=void\ paddleCollision()
+comment5.params=
+comment5.target=void\ scorePoints()
+comment6.params=
+comment6.target=void\ updateScoreboard()
+numComments=7
