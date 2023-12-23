@@ -1,12 +1,13 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+PROJECT UAS PBO KELOMPOK 17
+MEMBUAT GAME SEDERHANA Bounce_Battle
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE               : bounce_battle 
+PURPOSE OF PROJECT          : Syarat Nilai Ujian Akhir Semester Mata Kuliah Pemrograman Berorientasi Object
+Upload                      : 23 - Desember - 2023
+AUTHORS                     : 1. Zidane Arryo          | 2211102441095
+                              2. Dion Ikhzanza Rabbil  | 2211102441097
+                              3. Muhammad Ulil Albab   | 2211102441104
+
+------------------------------------------------------------------------
